@@ -1,0 +1,19 @@
+{
+  "name": "curso",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "User.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
